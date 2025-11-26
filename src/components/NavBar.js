@@ -1,18 +1,18 @@
 import "../css/NavBar.css";
 
 export default function NavBar() {
-    return (
-        <nav className="navContainer">
-            <div className="indexSection">
-                <h2>Home</h2>
+   return (
+        <nav className="navbar">
+            <div>
+                <a href="#home">Home</a>
             </div>
-            <div className="contentSection">
-                <h2>About</h2>
-                <h2>Resume</h2>
-                <h2>Project</h2>
+            <div className="links">
+                <a href="#about">About</a>
+                <a href="#resume">Resume</a>
+                <a href="#projects">Projects</a>
             </div>
-            <div className="contactSection">
-                <h2>Contact</h2>
+            <div>
+                <a href="#contact">Contact</a>
             </div>
         </nav>
     );
