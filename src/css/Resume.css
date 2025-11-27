@@ -1,4 +1,4 @@
-.container {
+.resume {
     display: flex;
     flex-direction: column;
     margin: 0px auto;
@@ -9,4 +9,11 @@
 
 .bodyContainer {
     padding: 20px;
+}
+
+.heading {
+    padding: 2px;
+    border-bottom: 1px solid #CF3F52;
+    font-weight: lighter;
+    width: 65%;
 }

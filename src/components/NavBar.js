@@ -27,11 +27,9 @@ export default function NavBar() {
                             Projects
                         </NavLink>
                     </h3>
-                </div>
-                <div className="contacts">
-                    <h3>
-                        <NavLink to="/contacts">
-                            Contacts
+                                        <h3>
+                        <NavLink to="/contact">
+                            Contact
                         </NavLink>
                     </h3>
                 </div>

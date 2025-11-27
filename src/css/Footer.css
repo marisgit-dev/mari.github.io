@@ -1,1 +1,23 @@
-/*Copyright © 2025 Marita Aziga*/
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    padding: 12px 14px;
+    background-color: #03060a;
+    flex-direction: row;
+}
+
+.footer a {
+    color: #F7F7EA;
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+.pages {
+    display: flex;
+    gap: 20px;
+}
+
+.pages a:hover {
+    color: #CF3F52;
+}

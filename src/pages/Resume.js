@@ -2,10 +2,9 @@ import "../css/Resume.css";
 
 export default function Resume() {
       return (
-            <div className="container">
+            <div className="resume">
                   <section>
-                        <h1>WORK EXPERIENCE</h1>
-                        <hr />
+                        <h1 className="heading">WORK EXPERIENCE</h1>
                         <div className="bodyContainer">
                               <div>
                                     <h2>Customer Service Rep.</h2>
@@ -44,8 +43,7 @@ export default function Resume() {
                         </div>
                   </section>
                   <section>
-                        <h1>VOLUNTEERING</h1>
-                        <hr />
+                        <h1 className="heading">VOLUNTEERING</h1>
                         <div className="bodyContainer">
                               <div>
                                     <h2>Volunteer Literacy Tutor</h2>
@@ -66,8 +64,7 @@ export default function Resume() {
                         </div>
                   </section>
                   <section>
-                        <h1>CERTIFICATIONS</h1>
-                        <hr />
+                        <h1 className="heading">CERTIFICATIONS</h1>
                         <div className="bodyContainer">   
                         <p>Excellence in Customer Service Training</p>
                         </div>
