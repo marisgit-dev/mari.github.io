@@ -1,14 +1,26 @@
+/*
+    Colors
+
+    #CF3F52
+    #3FCFBC
+    #072A57
+    #F7F7EA
+    #CFBC3F
+    #3F52CF
+*/
+
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #FFFAFC;
-    padding: 14px 16px;
+    padding: 12px 14px;
+    background-color: #03060a;
 }
 
 .navbar a {
-    color: #0C46A2;
+    color: #F7F7EA;
     text-decoration: none;
+    font-weight: lighter;
 }
 
 .links {
@@ -17,7 +29,13 @@
 }
 
 .navbar a:hover {
-    color: #42E8F9;
+    color: #CF3F52;
+}
+
+.active {
+    background-color: #CF3F52;
+    padding: 10px;
+    border-radius: 8px;
 }
 
 
