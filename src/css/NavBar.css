@@ -24,6 +24,7 @@
     color: #F7F7EA;
     text-decoration: none;
     font-weight: lighter;
+    margin-bottom: 20px;
 }
 
 .links {
@@ -33,10 +34,9 @@
 
 .navbar a:hover {
     color: #CF3F52;
-    padding: 2px;
     border-bottom: 1px solid #CF3F52;
     border-radius: 2px;
-
+    margin-bottom: 20px;
 }
 
 .active {
@@ -44,6 +44,7 @@
     padding: 2px;
     border-bottom: 1px solid #CF3F52;
     border-radius: 2px;
+    margin-bottom: 20px;
 }
 
 

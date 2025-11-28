@@ -14,6 +14,9 @@ export default function Footer() {
                 <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
             </div>
+            <div>
+                <p></p>
+            </div>
         </footer>
     );
 } 
