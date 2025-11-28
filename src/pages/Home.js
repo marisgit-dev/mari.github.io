@@ -1,3 +1,9 @@
+import "../App.css";
+
 export default function Home() {
-      return <h1>Hi!</h1>;
+      return (
+            <div className="container">
+                  <h1 className="heading">HI!</h1>
+            </div>
+      );
 }

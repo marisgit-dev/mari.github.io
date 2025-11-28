@@ -1,0 +1,27 @@
+.projectsButton {
+    color: #F7F7EA;
+    background-color:  transparent;
+    padding: 12px 14px;
+    border: 2px solid #F7F7EA;
+    border-radius: 12px;
+    margin-top: 20px;
+    transition: 0.2s;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.projectsButton:hover {
+    background-color: #3FCFBC;
+    border: 2px solid #3FCFBC;
+    box-shadow:0 8px 16px 0 rgba(23,94,84,0.6);
+    border-radius: 12px;
+    transform: translateY(-4px);
+}
+
+.projectsButton:active {
+    background-color: #CF3F52;
+    border: 2px solid #CF3F52;
+    border-radius: 12px;
+    box-shadow:0 8px 16px 0 rgba(94,23,33,0.4);
+    transform: translateY(4px);
+}

@@ -1,9 +1,12 @@
 .footer {
+    padding: 12px 14px;
+    background-color: #020707;
+}
+
+.footerTop {
     display: flex;
     justify-content: space-around;
     align-items: baseline;
-    padding: 12px 14px;
-    background-color: #03060a;
     flex-direction: row;
 }
 
@@ -20,4 +23,14 @@
 
 .pages a:hover {
     color: #CF3F52;
+    transition: 0.1s;
 }
+
+.caption {
+    margin-top: 12px;
+    padding-top: 14px; 
+    font-size: 0.85rem;
+    opacity: 0.6;
+    text-align: center;
+}
+

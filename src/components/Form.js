@@ -46,7 +46,7 @@ export default function Form() {
                     required 
                 />
             </label>
-            <button type="submit">Submit</button>
+            <button type="submit" className="submitButton">Submit</button>
 
         </form>
     );

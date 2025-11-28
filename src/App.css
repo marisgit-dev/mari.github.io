@@ -1,1 +1,27 @@
+/*
+    Colors
 
+    #CF3F52
+    #3FCFBC
+    #020707
+    #F7F7EA
+*/
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 0px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 75%;
+}
+
+.bodyContainer {
+    padding: 20px;
+}
+
+.heading {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #3FCFBC;
+    width: 100%;
+}
