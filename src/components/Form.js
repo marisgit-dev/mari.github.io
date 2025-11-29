@@ -1,4 +1,5 @@
 import "../css/Form.css";
+import "../App.css"
 import { useState } from "react";
 
 export default function Form() {
@@ -20,7 +21,7 @@ export default function Form() {
     }
 
     return (
-        <form onSubmit={onSubmit}>
+        <form onSubmit={onSubmit} className="bodyContainer">
             <p>{result}</p>
             <label>
                 <h3>Name</h3>
