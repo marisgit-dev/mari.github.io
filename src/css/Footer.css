@@ -27,10 +27,9 @@
 }
 
 .caption {
-    margin-top: 12px;
-    padding-top: 14px; 
+    padding-top: 8px; 
     font-size: 0.85rem;
-    opacity: 0.6;
+    opacity: 0.3;
     text-align: center;
 }
 
