@@ -1,12 +1,8 @@
-/*
-    Colors
-
-    #CF3F52
-    #3FCFBC
-    #020707
-    #F7F7EA
-*/
-
+/**
+ * I Marita Aziga, 000368577 certify that this material is my original work. 
+ * No other person's work has been used without due acknowledgement. 
+ * I have not made my work available to anyone else.  
+ */
 .container {
     display: flex;
     flex-direction: column;

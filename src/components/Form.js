@@ -1,7 +1,18 @@
+/**
+ * I Marita Aziga, 000368577 certify that this material is my original work. 
+ * No other person's work has been used without due acknowledgement. 
+ * I have not made my work available to anyone else.  
+ */
 import "../css/Form.css";
 import "../App.css"
 import { useState } from "react";
 
+/**
+ * Contact form for the site with social media icons.
+ * I used web3forms to implement the submit for to my proton email.
+ * 
+ * @returns Contact Form
+ */
 export default function Form() {
     const [result, setResult] = useState("");
 
