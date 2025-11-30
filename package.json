@@ -1,6 +1,7 @@
 {
   "name": "mari.github.io",
   "version": "0.1.0",
+  "homepage": "https://marisgit-dev.github.io/mari.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -15,6 +16,7 @@
     "@testing-library/user-event": "^13.5.0",
     "ajv": "^8.17.1",
     "ajv-keywords": "^5.1.0",
+    "gh-pages": "^6.3.0",
     "motion": "^12.23.24",
     "progress-bar": "^0.1.1",
     "react": "^19.2.0",
@@ -24,6 +26,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
