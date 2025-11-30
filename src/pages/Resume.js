@@ -36,24 +36,6 @@ export default function Resume() {
                               </li>
                         </ul>
                   </section>
-                  
-                  <h1 className="heading">VOLUNTEER EXPERIENCE</h1>
-                  <section className="bodyContainer">
-                        <h2>Volunteer Literacy Tutor</h2>
-                        <p>Hamilton Literacy Council</p>
-                        <p>{`(Dec 2024 - Present)`}</p>
-                        <p>Hamilton, Ontario</p>
-                        <ul>
-                              <li>
-                                    Provided instruction to an adult learner to read and write.
-                              </li>
-                              <li>
-                                    Planned weekly lessons and assigned homework and report their progress to the coordinator                                          </li>
-                              <li>
-                                    Helped find resources across the city and explained writing materials to them.
-                              </li>
-                        </ul>   
-                  </section>
                   <h1 className="heading">CERTIFICATIONS</h1>
                   <section className="bodyContainer">   
                         <p>Excellence in Customer Service Training</p>
