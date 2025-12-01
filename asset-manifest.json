@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mari.github.io/static/css/main.25c1616c.css",
+    "main.js": "/mari.github.io/static/js/main.54398b36.js",
+    "static/js/453.19e235f5.chunk.js": "/mari.github.io/static/js/453.19e235f5.chunk.js",
+    "static/media/self_portrait.png": "/mari.github.io/static/media/self_portrait.c16320feb526bc0acf84.png",
+    "index.html": "/mari.github.io/index.html",
+    "main.25c1616c.css.map": "/mari.github.io/static/css/main.25c1616c.css.map",
+    "main.54398b36.js.map": "/mari.github.io/static/js/main.54398b36.js.map",
+    "453.19e235f5.chunk.js.map": "/mari.github.io/static/js/453.19e235f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25c1616c.css",
+    "static/js/main.54398b36.js"
+  ]
+}
